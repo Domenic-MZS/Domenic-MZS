@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working at Cibersons as a developer, and studying on my free time.<br>👯 I’m looking to collaborate on any innovative or attractive open-source projects or ideas that catch my attention. I'm open to contributing and collaborating every time i can, to help to others and grow as a professional.<br>🤝 I’m looking for help with: Enhancing my networking skills and fostering critical thinking in tech. Seeking guidance or resources that can aid in developing these skills or to collaborate in open source projects.<br>🌱 I’m currently learning: Extended Reality Technologies and JSON-LD principles. Excited about delving into these fields and exploring their potential.<br>💬 Ask me about: Tech or Code designs and patterns! I enjoy discussing and debating different approaches to coding. I'm always eager to learn from diverse perspectives and engage in conversations about these topics.<br>⚡ Fun fact: I'm a Whisky Wanderer, going through a global tasting journey, exploring whiskies from numerous countries, relishing and uncovering their unique flavors, peats, and malts that mirror the water, tradition, and land of their origins. 🥃🌎
+
+🌍 I'm from Paraguay, in South America. I love being curious and creative. I believe technology can help solve many big problems if applied correctly. I'm a self taught developer (for the time being) eager to learn more from the open source community. I'm currently working on getting a degree at the university of my Dreams to change my country and empower technologic solutions.
+
+💡 Open to mentorship and collaboration on cool code projects, eager to explore opportunities to grow.
+
+🤔 Wanting help to learn and get better at networking.
+
+📚 Currently diving into Extended Reality Technologies and learning about JSON-LD principles.
+
+💬 Let's chat about live, culture, games or tech! Love trying out different ways to learn new things.
+
+🌟 I'm passionate about what i do, and what a i can achieve!
 
 
 # 💻 Tech Stack:
